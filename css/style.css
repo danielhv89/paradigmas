@@ -1,0 +1,74 @@
+
+.main{
+
+  /*margin-left:20%;*/
+  margin-top:5%;
+}
+
+body{
+}
+
+canvas.pie{
+  margin: 5px;
+}
+
+h1{
+	text-align: center;
+	color: grey;
+}
+
+#controles{
+  margin:5% auto;
+  text-align: center;
+}
+#controles button{
+ font-size: 8pt;
+}
+
+#main{
+margin-left:15%;
+}
+#time{
+font-size:125%;
+}
+.red{color:red}
+.big{font-size:100%}
+.underline{text-decoration:underline;}
+
+
+.charts{
+	margin:0 20% 0 20%;
+	float: left;
+}
+
+.charts div{
+	width: 100px;
+	height: 100px;
+	padding: 5px 5px;
+	float: left;
+	display: block;
+}
+
+.charts article{
+	width: 200px;
+	height: 200px;
+	float: left;
+	display: block;
+	margin-top: 30px;
+}
+
+	.charts label{
+		display: none;
+		text-align: center;
+	}
+
+canvas{
+	float: left;
+	display: block;
+}
+
+#myChart7{
+	margin: 0 auto;
+	text-align: left;
+	float: none;
+}

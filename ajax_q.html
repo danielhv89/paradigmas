@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<!-- loriacarlos@gmail.com EIF400 2015 -->
+<html>
+<head>
+  <title>Q Prueba de Ajax</title>
+  <script src="./scripts/jquery.min.1.11.3.js"></script>
+    <link rel="stylesheet" type="text/css" href="./css/style.css"/>
+
+  <script src="./scripts/q.js"></script>
+  <script src="./js/ajax_q.js"></script>
+	</head>
+	<body>
+	  
+      <div id="main">
+	    Sigo corriendo <span id="time"></span>
+	    <br/>
+		<div id="text">
+		      <h2>
+		          <span>Esto sera reemplazado por el texto del server (Q)</span>
+			  </h2>
+	    </div>
+<input id="datalist" list="textlist">
+
+<datalist id="textlist">
+  <option value="texto.txt">
+  <option value="datos.txt">
+  <option value="Informacion.txt">
+</datalist>
+
+		<button id="requestAjax">Traigame texto del server</button>
+		<br/>
+        <label>Lista de Responses:</label><span id="requests"></span>
+	 </div>
+
+	</body>
+</html>

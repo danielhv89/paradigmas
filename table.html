@@ -1,0 +1,101 @@
+<!doctype html>
+<html>
+  <head>
+    <title>Elections advance</title>
+    <link rel="stylesheet" href="./table/style.css" type="text/css" id="" media="print, projection, screen" />
+	<link rel="stylesheet" href="./css/style.css" type="text/css" id="" media="print, projection, screen" />
+	<script src="./scripts/jquery.min.js"></script>
+	<script src="./scripts/Chart.js"></script>
+	<script src="./scripts/drawing.js"></script>
+	<script src="./scripts/table_updater_q.js"></script>
+	<script src="./scripts/q.js"></script>
+	<script src="./scripts/setup.js"></script>
+  </head>
+  <body>
+  <div class="main">
+  <h1>ELECCIONES PRESIDENCIALES 2015</h1>
+  <table id="elections" cellspacing="0" class="tablesorter">
+	<thead>
+		<tr>
+			
+			<th rowspan="3">Provincia</th>
+			
+			<th colspan="12" >Votos por Partido</th>
+			
+		</tr>
+		<tr>
+			<th colspan=2>PLN</th>
+			<th colspan=2>PAC</th>
+			<th colspan=2>PLIB</th>
+			<th colspan=2>RC</th>
+			<th rowspan=2>Total</th>
+			<th rowspan=2>%</th>
+			<th rowspan=2>Avance</th>
+		</tr>
+		<tr>
+			
+			<th>Total</th>
+			<th>%</th>
+			<th>Total</th>
+			<th>%</th>
+			<th>Total</th>
+			<th>%</th>
+			<th>Total</th>
+			<th>%</th>
+			
+			
+		</tr>
+	</thead>
+	<tbody>
+		
+	</tbody>
+</table>
+  <div id="controles">
+	<button id="deleteBtn">Limpiar Tabla</button>
+	<button id="pollBtn">Consultar</button>
+  </div> 
+  <section class="charts">
+  	<div>
+  		<label>Heredia</label>
+		<canvas id="myChart0" class="pie" width="100" height="100"></canvas>
+  	</div>
+  	
+	<div>
+  		<label>San Jose</label>
+		<canvas id="myChart1" class="pie" width="100" height="100"></canvas>
+  	</div>
+	
+	<div>
+  		<label>Alajuela</label>
+	<canvas id="myChart2" class="pie" width="100" height="100"></canvas>
+  	</div>
+	
+	<div>
+  		<label>Cartago</label>
+		<canvas id="myChart3" class="pie" width="100" height="100"></canvas>
+  	</div>
+	
+	<div>
+  		<label>Puntarenas</label>
+		<canvas id="myChart4" class="pie" width="100" height="100"></canvas>
+  	</div>
+	
+	<div>
+  		<label>Limon</label>
+		<canvas id="myChart5" class="pie" width="100" height="100"></canvas>
+  	</div>
+	
+	<div>
+  		<label>Guanacaste</label>
+    	<canvas id="myChart6" class="pie" width="100" height="100"></canvas>
+  	</div>
+	
+    <article>
+  		<label>Votos totales por provincia</label>
+    	<canvas id="myChart7" class="pie" width="200" height="200"></canvas>
+  	</article>
+    
+  </section>
+  </body>
+ </div>   
+</html>

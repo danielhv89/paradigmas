@@ -1,0 +1,574 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"the",
+				"the_votes"
+			],
+			[
+				"dat",
+				"datas"
+			],
+			[
+				"n",
+				"nombre"
+			],
+			[
+				"da",
+				"datos"
+			],
+			[
+				"a",
+				"actual"
+			],
+			[
+				"in",
+				"index"
+			],
+			[
+				"pu",
+				"public"
+			],
+			[
+				"h",
+				"h"
+			],
+			[
+				"he",
+				"hellos"
+			],
+			[
+				"hello",
+				"helloFunctional"
+			],
+			[
+				"for",
+				"fore	for (each)"
+			],
+			[
+				"fo",
+				"fore	for (each)"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"pe",
+				"person2"
+			],
+			[
+				"pers",
+				"person1"
+			],
+			[
+				"contact",
+				"contactlist"
+			],
+			[
+				"sede",
+				"sede_id"
+			],
+			[
+				"cursos_ids",
+				"cursos_ids"
+			],
+			[
+				"o",
+				"one2many"
+			],
+			[
+				"p",
+				"primer_apellido"
+			],
+			[
+				"peri",
+				"Periodo"
+			],
+			[
+				"name",
+				"name_get"
+			],
+			[
+				"id",
+				"identificacion"
+			],
+			[
+				"de",
+				"depends"
+			],
+			[
+				"ma",
+				"materia_id"
+			],
+			[
+				"c",
+				"curso_id"
+			],
+			[
+				"credi",
+				"creditos_ref"
+			],
+			[
+				"es",
+				"estudiante_id"
+			],
+			[
+				"estu",
+				"estudiante_id"
+			],
+			[
+				"cre",
+				"creditos_ref"
+			],
+			[
+				"est",
+				"estudiante_id"
+			],
+			[
+				"politicas_",
+				"politicas_generales"
+			],
+			[
+				"div",
+				"div	Tag"
+			],
+			[
+				"hola",
+				"hola"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "table.html",
+			"settings":
+			{
+				"buffer_size": 1971,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "votesServer_q.js",
+			"settings":
+			{
+				"buffer_size": 6466,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "scripts/table_updater_q.js",
+			"settings":
+			{
+				"buffer_size": 3564,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 347.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"pac",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/Daniel/Desktop/paradigmas",
+		"/Users/Daniel/Desktop/paradigmas/scripts"
+	],
+	"file_history":
+	[
+		"/Users/Daniel/Desktop/paradigmas/ajax_q.html",
+		"/Users/Daniel/Desktop/paradigmas/scripts/drawing.js",
+		"/Users/Daniel/Desktop/paradigmas/scripts/q.js",
+		"/Users/Daniel/Desktop/paradigmas/votesServer.js",
+		"/Users/Daniel/Desktop/Paradigamas/work/src/Colector.java",
+		"/Users/Daniel/Downloads/paradigmas/scripts/drawing.js",
+		"/Users/Daniel/Desktop/paradigmas/table.html",
+		"/Users/Daniel/Downloads/paradigmas/table.html",
+		"/Users/Daniel/Desktop/paradigmas/votesServer_q.js",
+		"/Users/Daniel/Desktop/paradigmas/scripts/setup.js",
+		"/Users/Daniel/Desktop/paradigmas/scripts/table_updater_q.js",
+		"/Users/Daniel/Desktop/paradigmas/scripts/Chart.js",
+		"/Users/Daniel/Downloads/paradigmas-master/scripts/table_updater_q.js",
+		"/Users/Daniel/Downloads/paradigmas-master/votesServer_q.js",
+		"/Users/Daniel/Desktop/Paradigamas/java8_part01/src/HelloLambda.java",
+		"/Users/Daniel/Downloads/Proyecto/public_html/JS/tabla_script_json.js",
+		"/Users/Daniel/Downloads/Proyecto/public_html/JS/tabla_script.js",
+		"/Users/Daniel/Desktop/paradigmas/votesRequester_q.js",
+		"/Users/Daniel/Desktop/paradigmas/Indicaciones.text",
+		"/Users/Daniel/Desktop/paradigmas/ajax.html",
+		"/Users/Daniel/Desktop/project/Indicaciones.text",
+		"/Users/Daniel/Desktop/proyecto_paradigmas/elections.v2/work/elections/table.html",
+		"/Users/Daniel/Desktop/project/public/controllers/controller.js",
+		"/Users/Daniel/Desktop/project/public/index.html",
+		"/Users/Daniel/Desktop/project/server.js",
+		"/Users/Daniel/Desktop/project/public/controllers/controllers.js",
+		"/Users/Daniel/Desktop/project/public/table.html",
+		"/Volumes/Git 2.2.1 Mavericks Intel Universal/README.txt",
+		"/Users/Daniel/Desktop/proyecto_paradigmas/elections.v2/work/elections/scripts/table_updater_q.js",
+		"/Users/Daniel/Desktop/proyecto_paradigmas/elections.v2/work/elections/scripts/drawing.js",
+		"/Users/Daniel/Desktop/proyecto_paradigmas/elections.v2/work/elections/scripts/Chart.js",
+		"/Users/Daniel/Desktop/proyecto_paradigmas/elections.v2/work/elections/scripts/table_updater.js",
+		"/Users/Daniel/Desktop/proyecto_paradigmas/elections.v2/work/elections/node_modules/q/q.js",
+		"/Users/Daniel/Desktop/proyecto_paradigmas/elections.v2/work/elections/data/texto.txt",
+		"/Users/Daniel/Desktop/proyecto_paradigmas/elections.v2/work/elections/Indicaciones.text",
+		"/Users/Daniel/Desktop/proyecto_paradigmas/elections.v2/work/elections/votesServer.js",
+		"/Users/Daniel/Desktop/proyecto_paradigmas/elections.v2/work/elections/votesRequester.js",
+		"/Users/Daniel/Desktop/Ejemplo Ajax/servidor.php",
+		"/Users/Daniel/Desktop/Ejemplo Ajax/ajax.html",
+		"/Users/Daniel/Desktop/odoo-uccart/addons/sftp-config.json",
+		"/Users/Daniel/Desktop/odoo-uccart/addons/uccart/uccart_cursos/cursos.xml",
+		"/Users/Daniel/Desktop/odoo-uccart/addons/uccart/uccart_estudiantes/estudiantes.py",
+		"/Users/Daniel/Desktop/odoo-uccart/addons/uccart/uccart_estudiantes/estudiantes.xml",
+		"/Users/Daniel/Desktop/odoo-uccart/addons/uccart/uccart_cursos/cursos.py",
+		"/Users/Daniel/Desktop/odoo-uccart/addons/uccart/menu.xml",
+		"/Users/Daniel/Desktop/odoo-uccart/addons/uccart/security/ir.model.access.csv",
+		"/Users/Daniel/Desktop/odoo-uccart/addons/uccart/uccart_becas/becas.py",
+		"/Users/Daniel/Desktop/odoo-uccart/addons/uccart/uccart_periodos/periodos.py",
+		"/Users/Daniel/Desktop/odoo-uccart/addons/sftp-config-alt.json",
+		"/Users/Daniel/Desktop/odoo-uccart/addons/uccart/views/reportes_periodo.xml",
+		"/Users/Daniel/Desktop/odoo-uccart/addons/uccart/uccart_sedes/sedes.py",
+		"/Users/Daniel/Desktop/odoo-uccart/addons/uccart/uccart_materias/materias.py",
+		"/Users/Daniel/Desktop/odoo-uccart/addons/uccart/views/reportes_comprobante_matricula.xml",
+		"/Users/Daniel/Desktop/odoo-uccart/addons/uccart/views/reportes.xml",
+		"/Users/Daniel/Desktop/odoo-uccart/addons/uccart/views/reportes_estudiante.xml",
+		"/Users/Daniel/Desktop/odoo-uccart/addons/uccart/uccart_periodos/periodos.xml",
+		"/Users/Daniel/Desktop/odoo-uccart/addons/uccart/uccart_becas/becas.xml",
+		"/Users/Daniel/Desktop/odoo-uccart/datos/configuration/openerp-server.conf",
+		"/Users/Daniel/Desktop/odoo-uccart/addons/uccart/direcciones/direcciones.xml",
+		"/Users/Daniel/Desktop/odoo-uccart/addons/uccart/direcciones/direcciones.py",
+		"/Users/Daniel/Desktop/odoo-uccart/addons/uccart/ir.model.access.csv",
+		"/Users/Daniel/Desktop/odoo-uccart/addons/uccart/views/reportes_profesor.xml",
+		"/Users/Daniel/Desktop/odoo-uccart/addons/uccart/uccart_carreras/carreras.py",
+		"/Users/Daniel/Desktop/odoo-uccart/addons/uccart/__openerp__.py",
+		"/Users/Daniel/Desktop/odoo-uccart/datos/PENDIENTES/PENDIENTES.txt",
+		"/Users/Daniel/Desktop/odoo-uccart/addons/uccart/uccart_profesores/profesores.xml",
+		"/Users/Daniel/Documents/Univercidad Nacional/2013 II Semestre/PrograIV/Lecciones/Semana 10/ejemplos responsive/conresponsive/index.html",
+		"/Users/Daniel/Documents/UCCART/odoo-uccart/uccart/models.py",
+		"/Users/Daniel/Documents/UCCART/odoo-uccart/uccart/__openerp__.py",
+		"/Users/Daniel/Documents/UCCART/odoo-uccart/uccart/templates.xml",
+		"/Users/Daniel/Documents/UCCART/odoo-uccart/sftp-config.json",
+		"/Volumes/C/xampp/htdocs/Monitor/database/conexion.php",
+		"/Volumes/C/xampp/htdocs/Proyecto3/database/eliminarrespaldo.php",
+		"/Volumes/C/xampp/htdocs/Proyecto3/plantillaAbajo.php",
+		"/Volumes/C/xampp/htdocs/Proyecto3/js/script.js",
+		"/Volumes/C/xampp/htdocs/Monitor3/database/conexion.php",
+		"/Volumes/C/xampp/htdocs/Proyecto3/database/backups.php",
+		"/Volumes/C/xampp/htdocs/Proyecto3/database/agregarrespaldo.php",
+		"/Volumes/C/xampp/htdocs/Proyecto3/plugins/jquery/jquery.min.js",
+		"/Volumes/C/xampp/htdocs/Proyecto3/css/style.css",
+		"/Volumes/C/xampp/htdocs/Proyecto3/plugins/select2/composer.json",
+		"/Volumes/C/xampp/htdocs/Proyecto3/plugins/select2/bower.json",
+		"/Volumes/C/xampp/htdocs/Proyecto3/plugins/select2/component.json",
+		"/Volumes/C/xampp/htdocs/Proyecto3/json/mostrarRespaldos.php",
+		"/Volumes/C/xampp/htdocs/Proyecto3/js/script_json.js",
+		"/Volumes/C/xampp/htdocs/Proyecto3/js/plugins.js",
+		"/Volumes/C/xampp/htdocs/Proyecto3/js/devoops.js",
+		"/Volumes/C/xampp/htdocs/Proyecto3/database/Tablas principales.sql",
+		"/Volumes/C/xampp/htdocs/Proyecto3/database/conexion.php",
+		"/Volumes/C/xampp/htdocs/Proyecto3/js/script_timer.js",
+		"/Volumes/C/xampp/htdocs/Proyecto3/index.php"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"myPieChart7",
+			"createChart1",
+			"createChart",
+			"createChart1",
+			"index",
+			"getContext",
+			"myChart",
+			"votesWorkFlow",
+			"startPolling",
+			"drawChartBtn",
+			"myChart",
+			"map",
+			"table_clear",
+			"the_votes",
+			"place",
+			"get",
+			"drawChartBtn",
+			"pollBtn",
+			"ajax",
+			"axa",
+			"votes",
+			"materias",
+			"tipo_ref",
+			"tipo",
+			"cursos_id",
+			"estudiante",
+			"config",
+			"suma",
+			"menu_uccart_profesores",
+			".sql",
+			"Calendario",
+			"calendario",
+			"today",
+			"calendario",
+			"index.html",
+			"Calendario",
+			"calendario",
+			"inicio",
+			"Calendario",
+			"calendario",
+			"MEMBERS",
+			"group#",
+			"group",
+			"grup",
+			"getlogInfo();"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": true,
+		"wrap": true
+	},
+	"folders":
+	[
+		{
+			"path": "/Users/Daniel/Desktop/paradigmas"
+		}
+	],
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "table.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1971,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 594.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "votesServer_q.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 6466,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4740,
+								4740
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 2860.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "scripts/table_updater_q.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3564,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2995,
+								2995
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 2298.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 228.0
+	},
+	"pinned_build_system": "",
+	"project": "",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 243.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
